@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hello, I'm [이름]!
 
-<!--
-**2009seungbin-stack/2009seungbin-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 🏫 [sindo/ no]
+- 💻 [game]
+- 🔐 [game]
+- 🚀 Currently Learning [클로드,깃허브,파이썬,제미나이,gpt]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 My Goal
+
+> [돈을 벌겠다.]
+
+---
+
+## 🛠️ Tech Stack
+
+<!-- 필요한 기술만 남기고 추가/삭제하세요. -->
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![GPT](https://img.shields.io/badge/GPT-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+---
+
+## 📊 GitHub Stats
+
+<!-- YOUR_USERNAME을 자신의 GitHub username으로 변경하세요. -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+---
+
+## 📫 Contact
+
+📧 Email: [내 이메일]
+
+🔗 GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
+---
+
+⭐ Thanks for visiting my profile!
+
