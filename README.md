@@ -30,11 +30,7 @@
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ---
 
-## 📊 GitHub Stats
 
-<!-- YOUR_USERNAME을 자신의 GitHub username으로 변경하세요. -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
 
